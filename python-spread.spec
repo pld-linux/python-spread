@@ -2,7 +2,7 @@
 %define		module	SpreadModule
 
 Summary:	Python extension module wrapping the C API for Spread, an open source group communications package
-Name:		python-%{module}
+Name:		python-spread
 Version:	1.5
 Release:	0.1
 License:	PSF
