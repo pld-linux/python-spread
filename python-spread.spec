@@ -12,7 +12,6 @@ Source0:	http://www.zope.org/Members/tim_one/spread/SpreadModule-1.5/SpreadModul
 # Source0-md5:	4c953e0f9f08635fb47dd04a23e222dc
 URL:		http://www.zope.org/Members/tim_one/spread/
 BuildRequires:	python-devel >= 1:2.3
-BuildRequires:	rpm-pythonprov
 BuildRequires:	spread-devel >= 3.17.3-0.2
 %pyrequires_eq	python-modules
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
