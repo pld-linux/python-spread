@@ -4,7 +4,7 @@
 Summary:	Python extension module wrapping the C API for Spread, an open source group communications package
 Name:		python-spread
 Version:	1.5
-Release:	0.1
+Release:	0.2
 License:	PSF
 Group:		Development/Languages/Python
 Source0:	http://www.zope.org/Members/tim_one/spread/SpreadModule-1.5/SpreadModule-1.5.tgz
@@ -13,7 +13,7 @@ URL:		http://www.zope.org/Members/tim_one/spread/
 %pyrequires_eq	python-modules
 BuildRequires:	python-devel >= 1:2.3
 BuildRequires:	rpm-pythonprov
-BuildRequires:	spread-devel
+BuildRequires:	spread-devel >= 3.17.3-0.2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
