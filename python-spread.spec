@@ -5,7 +5,7 @@ Summary:	Python wrapper the C API for Spread, an open source group communication
 Summary(pl):	Pythonowy wrapper do API C Spreada - pakietu komunikacji grupowej z otwartymi ¼ród³ami
 Name:		python-spread
 Version:	1.5
-Release:	0.2
+Release:	1
 License:	PSF
 Group:		Development/Languages/Python
 Source0:	http://www.zope.org/Members/tim_one/spread/SpreadModule-1.5/SpreadModule-%{version}.tgz
