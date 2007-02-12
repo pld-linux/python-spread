@@ -2,7 +2,7 @@
 %define		module	SpreadModule
 
 Summary:	Python wrapper the C API for Spread, an open source group communications package
-Summary(pl):	Pythonowy wrapper do API C Spreada - pakietu komunikacji grupowej z otwartymi ºrÛd≥ami
+Summary(pl.UTF-8):   Pythonowy wrapper do API C Spreada - pakietu komunikacji grupowej z otwartymi ≈∫r√≥d≈Çami
 Name:		python-spread
 Version:	1.5
 Release:	1
@@ -20,9 +20,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Python extension module wrapping the C API for Spread, an open source
 group communications package.
 
-%description -l pl
-Modu≥ rozszerzenia Pythona obudowuj±cy API C dla Spreada - pakietu
-komunikacji grupowej z otwartymi ºrÛd≥ami.
+%description -l pl.UTF-8
+Modu≈Ç rozszerzenia Pythona obudowujƒÖcy API C dla Spreada - pakietu
+komunikacji grupowej z otwartymi ≈∫r√≥d≈Çami.
 
 %prep
 %setup -q -n %{module}-%{version}
