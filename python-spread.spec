@@ -2,7 +2,7 @@
 %define		module	SpreadModule
 
 Summary:	Python wrapper the C API for Spread, an open source group communications package
-Summary(pl.UTF-8):   Pythonowy wrapper do API C Spreada - pakietu komunikacji grupowej z otwartymi źródłami
+Summary(pl.UTF-8):	Pythonowy wrapper do API C Spreada - pakietu komunikacji grupowej z otwartymi źródłami
 Name:		python-spread
 Version:	1.5
 Release:	1
